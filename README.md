@@ -211,8 +211,8 @@ body, html {
   
 
  
-      <div class="w3-large w3-margin-bottom w3-center">
-        <i class="w3-center w3-margin-bottom fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right "></i>  Κωνσταντίνου Αθάνατου 20 <br>
+      <div class="w3-large w3-margin-bottom w3-center">>
+       <!-- <i class="w3-center w3-margin-bottom fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right "></i>  Κωνσταντίνου Αθάνατου 20 <br> -->
         <i class="w3-center w3-margin-bottom fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: 21 0960 4866<br>
       </div>
      <div>
